@@ -27,6 +27,8 @@ The repository is organized to provide a clear understanding of the project stru
 
 -src/: Python scripts containing reusable functions and modules.
 
+https://github.com/yuva-222/CREDITCARDFRAUDDETECTION/blob/main/CREDIT%20CARD%20FRAUD%20DETECTION%20.ipynb
+
 -models/: Saved models or model weights.
 
 -reports/: Documentation and reports on the project, including this README file.
